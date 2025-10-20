@@ -1,0 +1,5 @@
+name,src_file,src_line,total_ns,total_perc,counts,mean_ns,min_ns,max_ns,std_ns
+displaceByNormalEigen,/home/eric/mine/deformer/src/DisplaceByNormalEigen.cpp,11,53002315,9.974901,1,53002315,53002315,53002315,0.000000
+displaceByNormalCuda,/home/eric/mine/deformer/src/DisplaceByNormalCuda.cpp,26,111240573,20.935193,1,111240573,111240573,111240573,0.000000
+displaceByNormalTBB,/home/eric/mine/deformer/src/DisplaceByNormalTBB.cpp,14,26202695,4.931281,1,26202695,26202695,26202695,0.000000
+displaceByNormalThreads,/home/eric/mine/deformer/src/DisplaceByNormalThreads.cpp,15,51126352,9.621849,1,51126352,51126352,51126352,0.000000
