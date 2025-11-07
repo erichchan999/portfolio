@@ -15,7 +15,7 @@ A unified camera tool that can handle cameras from a particular plugin and also 
 ## Asset catalogue importer
 Re-implemented Houdini's asset catalogue "add directory" button, but can be invoked via CLI and with more bells and whistles.
 
-![alt text](image.png)
+![alt text](/pipeline/media/assetimporter.png)
 
 ## Object Merge Auto Populate
 Just a convenience tool for the Houdini guys to auto populate a bunch of nodes into object merge when they cut a connection.
