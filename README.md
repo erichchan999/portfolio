@@ -33,3 +33,6 @@ This project re-implements the peak node functionality from Houdini (literally, 
 - Tracy profiling
 
 Took 5 weekends to complete. Project is included as a submodule. Just the README is also provided in `/deformer_just_readme`.
+
+#### AI
+This project classifies movie review text as positive or negative using various natural language models, completed in my undergrad during the pre-LLM era. https://github.com/erichchan999/movie_review_nlp/blob/main/Analysis.ipynb
