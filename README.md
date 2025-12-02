@@ -8,12 +8,12 @@ I was an OS engineer at seL4 Trustworthy Systems for 2 years, doing various kern
 
 ## UTS Masters of Animation and Visualisation at ALA, FX & Pipeline TD - 2025
 
-### FX Showreel
+### FX & CFX
 
-![reel](reel.gif)
-https://vimeo.com/1138123238
-- CFX uses multi-shot workflow, published for all ~30 shots of the film. This was my first Houdini project as a complete CG beginner, took me 3 months to learn the software and complete it.
-- Oniko is ongoing until Dec 05, 2025
+- FX & CFX show reel: https://vimeo.com/1138123238
+- Multi-shot CFX workflow for all ~30 shots of OCCUPATIONAL HAZARD (short film)
+- Various stylised FX for ONIKO (short film) (ongoing until Dec 05, 2025)
+- These are my first Houdini projects as a complete CG beginner, took around 6 months to complete.
 
 ### Pipeline TD
 
